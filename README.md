@@ -1,3 +1,7 @@
 # timer-app
 
-The Timer app built from the tutorials in the CS-360: Mobile Architecture and Programming course book.
+The Timer app built for GC 646 Lab 3. 
+Implemented the following features 
+1) Context menu
+2) Vertical scroll that uses touch handling
+3) Fragment
